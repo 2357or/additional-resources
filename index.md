@@ -3,11 +3,11 @@
 
 
 ## 連絡
-発表資料のほうにメールアドレスがのっていましたが、Twetterのダイレクトメッセージ(DM)でもかまいません。  
-アカウント: [@95s7k84695a](https://twitter.com/95s7k84695a)
+* デモの作成が完了したらここに動画のリンクを載せます。 (終わらなかったらすみません...)
 
 気軽に質問、感想などお願いします。  
-また、本ページの誤字、不明点がありましたらご連絡していたたけるとうれしいです。
+また、本ページの誤字、不明点、誤りがありましたらご連絡していたたけるとうれしいです。(issue, pull requestでも可です[[リポジトリ](https://2357or.github.io/additional-resources/)])
+
 
 
 <br>
@@ -30,10 +30,10 @@
 ## 開発環境について
 [こちら](/environment.md)で細かいバージョンやソフトウェア情報をみることができます。
 
-使用した主なツール、用途は以下です。
+使用した主なツール、用途は以下です。  
 Fusion360: モデリング  
-Unity: デモ作成  
-ibisPaint X: 設計図作成
+ibisPaint X: 設計図作成  
+Numi: 計算、メモ
 
 
 <br>
@@ -42,7 +42,7 @@ ibisPaint X: 設計図作成
 ## 動画、パワーポイントで使用した専門用語の解説
 [こちら](/word_def.md)で動画で出てきた順(＋関連語)の説明をしています。
 
-ほかにも不明な単語がありましたらメールまたは、上記[連絡](#連絡)に記載したtwetter DM などでご連絡ください。
+ほかにも不明な単語がありましたら連絡お願いします。
 
 
 <br>
@@ -54,8 +54,7 @@ ibisPaint X: 設計図作成
 
 また、進数変換(基数変換)を自分で計算するのが面倒だったので、C++ にてプログラムを作成してます。  
 ソースコードは[こちら](/resources/cpp/radix_conversion.cpp)です。    
-clanng等でコンパイルして自由につかっていただいて構いません。(ソースコードの使用もOKです)  
-だいぶ競技プログラミングに近い書き方になってますが数十分で作成したものなので許してください。
+自由につかっていただいて構いません。 だいぶ競技プログラミングに近い書き方になってますが数十分で作成したものなので許してください。
 
 
 <br>
@@ -63,4 +62,5 @@ clanng等でコンパイルして自由につかっていただいて構いま�
 
 ## 3Dモデルやプロジェクトデータについて
 連絡いただければデータを渡すことは可能だと思います。  
-メールでも構いませんが、可能でしたらこの連絡は[twetter DM](https://twitter.com/95s7k84695a)のほうでお願いします(メッセージやり取りの回数が多くなる可能性が高いため)。
+Fusion360で出力可能なファイル形式[https://knowledge.autodesk.com/ja/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/JPN/Export-format-options-for-Fusion-360.html](https://knowledge.autodesk.com/ja/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/JPN/Export-format-options-for-Fusion-360.html)
+
