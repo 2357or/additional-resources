@@ -9,28 +9,18 @@
 
 <img src="resources/image/0index.png" alt="0全体">
 <br>
-
-1
-<img src="resources/image/1front.png" alt="1正面">
+[1面正](resources/image/1front.png)
 <br>
-
-2
-<img src="resources/image/2top.png" alt="2上">
+[2上](resources/image/2top.png)
 <br>
-
-3
-<img src="resources/image/3rightOblique.png" alt="3右斜め">
+[3右斜め](resources/image/3rightOblique.png)
 <br>
-
-4
-<img src="resources/image/4right.png" alt="4右">
+[4右](resources/image/4right.png)
 <br>
-
-5
-<img src="resources/image/5left.png" alt="5左">
+[5下](resources/image/5bottom.png)
 <br>
-
-6
-<img src="resources/image/6leftOblique.png" alt="6左斜め">
-
+[6左](resources/image/6left.png)
+<br>
+[7左斜め](resources/image/7leftOblique.png)
+<br>
 
