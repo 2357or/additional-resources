@@ -21,6 +21,7 @@
 - [機構コンセプトの構築  (10:49)](https://youtu.be/TlpKPEhMsRQ)
 - [16進数への変換 ギア比計算  (11:19)](https://youtu.be/Ds27-iqx3fo)
 - [16進数への変換 プーリーの移動量  (12:45)](https://youtu.be/g-iwI_A3a5w)
+- 入力から出力へ(22日投稿)
 <br>
 
 
