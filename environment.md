@@ -1,8 +1,3 @@
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
 # 開発環境
 
 基本的には最新、LTSのものを使用をしています。
@@ -10,6 +5,7 @@
 本資料は google-chrome (87.0.4280.88) にて動作確認済みです。
 
 ## PC
+
 | 項目名  | 内容                                                  |
 | :------ | :------------------------------                       |
 | PC      | MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports) |
@@ -20,6 +16,7 @@
 | GPU RAM | 1536 MB                                               |
 
 ## アプリケーション/ソフトウェア
+
 | 名前               | バージョン  | 主な用途        |
 | :---------------   | :--------:  | :----------     |
 | AUTODESK Fusion360 | 2.0.9512    | 3Dモデリング    |
@@ -32,6 +29,7 @@
 | clang              | 11.0.0      | C++コンパイル   |
 
 ## その他
+
 | 名前       | 主な用途         |
 | :----      | :----------      |
 | Cica       | PowerPointのfont |
