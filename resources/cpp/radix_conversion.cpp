@@ -8,13 +8,34 @@ using ll = long long;
 #define ALL(x) x.begin(),x.end()
 #define rep(i, a, b) for(ll i=a;i<b;i++)
 
+
+//#define FROM 4
+//#define TO 16
+#define SIZE 4
+
 string solve(){
+    // DATA
     string num;
     int from, to;
-    cout << "number: "; cin >> num;
-    cout << "from: "; cin >> from;
-    cout << "to: "; cin >> to;
 
+
+    // INPUT
+    cout << "number: "; cin >> num;
+
+    #ifdef FROM
+        from = FROM;
+    #else
+        cout << "from: "; cin >> from;
+    #endif
+
+    #ifdef TO
+        to = TO;
+    #else
+        cout << "to: "; cin >> to;
+    #endif
+
+
+    // MAIN
     string exception = "";
     if(count(ALL(num), '-')) exception += "`number` must be natural number.\n";
     rep(i, 0, num.length()) if(num[i]-'0' >= (from > 10 ? 'A'+from-10-'0' : from)){
@@ -41,6 +62,11 @@ string solve(){
 }
 
 int main(){
-    cout << solve() << endl;
+    string s = solve();
+    #ifdef SIZE
+        while (s.size() < SIZE) s = '0' + s;
+    #endif
+    cout << s << endl;
     return 0;
 }
+
