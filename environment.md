@@ -1,3 +1,8 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 # 開発環境
 
 基本的には最新、LTSのものを使用をしています。
@@ -33,4 +38,3 @@
 | git/github | 本資料作成・公開 |
 | Youtube    | 補足動画公開     |
 | Alfred     | ランチャー       |
-
